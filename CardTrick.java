@@ -25,6 +25,7 @@ public class CardTrick {
         }
         
         Card luckyCard = new Card(2, "Spades");
+        // lucky card forced
         magicHand[0] = luckyCard;  
 
         boolean found = false;
